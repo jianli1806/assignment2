@@ -1,0 +1,15 @@
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/Animal/Animal/bin/Debug/net9.0/Animal
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/Animal/Animal/bin/Debug/net9.0/Animal.deps.json
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/Animal/Animal/bin/Debug/net9.0/Animal.runtimeconfig.json
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/Animal/Animal/bin/Debug/net9.0/Animal.dll
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/Animal/Animal/bin/Debug/net9.0/Animal.pdb
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/Animal/Animal/obj/Debug/net9.0/Animal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/Animal/Animal/obj/Debug/net9.0/Animal.AssemblyInfoInputs.cache
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/Animal/Animal/obj/Debug/net9.0/Animal.AssemblyInfo.cs
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/Animal/Animal/obj/Debug/net9.0/Animal.csproj.CoreCompileInputs.cache
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/Animal/Animal/obj/Debug/net9.0/Animal.sourcelink.json
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/Animal/Animal/obj/Debug/net9.0/Animal.dll
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/Animal/Animal/obj/Debug/net9.0/refint/Animal.dll
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/Animal/Animal/obj/Debug/net9.0/Animal.pdb
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/Animal/Animal/obj/Debug/net9.0/Animal.genruntimeconfig.cache
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/Animal/Animal/obj/Debug/net9.0/ref/Animal.dll

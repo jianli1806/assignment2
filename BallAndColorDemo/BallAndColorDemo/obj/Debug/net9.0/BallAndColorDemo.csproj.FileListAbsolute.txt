@@ -1,0 +1,15 @@
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/BallAndColorDemo/BallAndColorDemo/bin/Debug/net9.0/BallAndColorDemo
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/BallAndColorDemo/BallAndColorDemo/bin/Debug/net9.0/BallAndColorDemo.deps.json
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/BallAndColorDemo/BallAndColorDemo/bin/Debug/net9.0/BallAndColorDemo.runtimeconfig.json
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/BallAndColorDemo/BallAndColorDemo/bin/Debug/net9.0/BallAndColorDemo.dll
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/BallAndColorDemo/BallAndColorDemo/bin/Debug/net9.0/BallAndColorDemo.pdb
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/BallAndColorDemo/BallAndColorDemo/obj/Debug/net9.0/BallAndColorDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/BallAndColorDemo/BallAndColorDemo/obj/Debug/net9.0/BallAndColorDemo.AssemblyInfoInputs.cache
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/BallAndColorDemo/BallAndColorDemo/obj/Debug/net9.0/BallAndColorDemo.AssemblyInfo.cs
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/BallAndColorDemo/BallAndColorDemo/obj/Debug/net9.0/BallAndColorDemo.csproj.CoreCompileInputs.cache
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/BallAndColorDemo/BallAndColorDemo/obj/Debug/net9.0/BallAndColorDemo.sourcelink.json
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/BallAndColorDemo/BallAndColorDemo/obj/Debug/net9.0/BallAndColorDemo.dll
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/BallAndColorDemo/BallAndColorDemo/obj/Debug/net9.0/refint/BallAndColorDemo.dll
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/BallAndColorDemo/BallAndColorDemo/obj/Debug/net9.0/BallAndColorDemo.pdb
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/BallAndColorDemo/BallAndColorDemo/obj/Debug/net9.0/BallAndColorDemo.genruntimeconfig.cache
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/BallAndColorDemo/BallAndColorDemo/obj/Debug/net9.0/ref/BallAndColorDemo.dll

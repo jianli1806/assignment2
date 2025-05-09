@@ -1,0 +1,15 @@
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/abstraction/abstraction/bin/Debug/net9.0/abstraction
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/abstraction/abstraction/bin/Debug/net9.0/abstraction.deps.json
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/abstraction/abstraction/bin/Debug/net9.0/abstraction.runtimeconfig.json
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/abstraction/abstraction/bin/Debug/net9.0/abstraction.dll
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/abstraction/abstraction/bin/Debug/net9.0/abstraction.pdb
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/abstraction/abstraction/obj/Debug/net9.0/abstraction.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/abstraction/abstraction/obj/Debug/net9.0/abstraction.AssemblyInfoInputs.cache
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/abstraction/abstraction/obj/Debug/net9.0/abstraction.AssemblyInfo.cs
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/abstraction/abstraction/obj/Debug/net9.0/abstraction.csproj.CoreCompileInputs.cache
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/abstraction/abstraction/obj/Debug/net9.0/abstraction.sourcelink.json
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/abstraction/abstraction/obj/Debug/net9.0/abstraction.dll
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/abstraction/abstraction/obj/Debug/net9.0/refint/abstraction.dll
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/abstraction/abstraction/obj/Debug/net9.0/abstraction.pdb
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/abstraction/abstraction/obj/Debug/net9.0/abstraction.genruntimeconfig.cache
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/abstraction/abstraction/obj/Debug/net9.0/ref/abstraction.dll

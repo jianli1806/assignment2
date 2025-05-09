@@ -1,0 +1,15 @@
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/Encapsulation/Encapsulation/bin/Debug/net9.0/Encapsulation
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/Encapsulation/Encapsulation/bin/Debug/net9.0/Encapsulation.deps.json
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/Encapsulation/Encapsulation/bin/Debug/net9.0/Encapsulation.runtimeconfig.json
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/Encapsulation/Encapsulation/bin/Debug/net9.0/Encapsulation.dll
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/Encapsulation/Encapsulation/bin/Debug/net9.0/Encapsulation.pdb
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/Encapsulation/Encapsulation/obj/Debug/net9.0/Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/Encapsulation/Encapsulation/obj/Debug/net9.0/Encapsulation.AssemblyInfoInputs.cache
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/Encapsulation/Encapsulation/obj/Debug/net9.0/Encapsulation.AssemblyInfo.cs
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/Encapsulation/Encapsulation/obj/Debug/net9.0/Encapsulation.csproj.CoreCompileInputs.cache
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/Encapsulation/Encapsulation/obj/Debug/net9.0/Encapsulation.sourcelink.json
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/Encapsulation/Encapsulation/obj/Debug/net9.0/Encapsulation.dll
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/Encapsulation/Encapsulation/obj/Debug/net9.0/refint/Encapsulation.dll
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/Encapsulation/Encapsulation/obj/Debug/net9.0/Encapsulation.pdb
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/Encapsulation/Encapsulation/obj/Debug/net9.0/Encapsulation.genruntimeconfig.cache
+/Users/macbook/Library/CloudStorage/OneDrive-UniversityofFlorida/antra project/assignment1/Encapsulation/Encapsulation/obj/Debug/net9.0/ref/Encapsulation.dll
